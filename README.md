@@ -61,4 +61,11 @@ Ordem otimizada dos pacotes:
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+# Davi J. Leite Santos
+
+### Contato
+🏠 Ribeirão das Neves, Minas Gerais - Brasil
+📱 (31) 9 9970-8722 (Mobile)
+📧 davi.jls@outlook.com
+🌐 [LinkedIn](https://www.linkedin.com/in/davi-j-leite-santos)
+🌐 [Website](http://davijls.com.br/)
